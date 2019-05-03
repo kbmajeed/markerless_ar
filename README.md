@@ -31,6 +31,7 @@ Step 3: Advert Warping
 '''
 
 ## Results
+![](matching_less.png)  
 
 Below image shows feature matching between Frame 0 and Frame 100 of a sample test video:  
 ![](matching.png)
