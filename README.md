@@ -34,8 +34,10 @@ Step 3: Advert Warping
 ## Results
   
 Below image shows feature matching between Frame 0 and Frame 100 of a sample test video:  
+  
 ![](matching.png)  
 
 Click image below to play video:  
+  
 [![Watch the video](https://img.youtube.com/vi/kaR0zuAqziA/hqdefault.jpg)](https://youtu.be/kaR0zuAqziA)
 
